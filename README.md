@@ -1,4 +1,4 @@
-Customized OpenCore 0.8.0 EFI for ThinkPad T450s T450 X250 X1C3 
+# Customized OpenCore 0.8.0 EFI for ThinkPad T450s T450 X1C3 
 Modified to work better with Mac OS Monterey. 
 
 What works: Everything besides VGA. Touchscreen support on 3rd gen X1 Carbon. SD-card slot also works without any issue.
