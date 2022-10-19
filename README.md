@@ -10,6 +10,7 @@ What’s been changed:
 3. Under NVRAM > Delete > 7C436110-AB2A-4BBB-A880-FE41995C9F82, prev-lang:kbd was added to make sure that English Language is detected and selected by default.
 4. ThinkPad Assistant not included. All of the function keys for T450/s and X1 Carbon work perfectly as it is, and I wanted to reduce clutter. Other files such as Lenovo Wallpapers and DW1820a driver are also not included.
 5. Added support for Android USB tethering, so that you can now tether your cellphone to the hackintosh (with USB), and enjoy faster speeds. The HoRNDIS driver that was added is supported by Catalina, Big Sur, Monterey, and most likely older Mac OS. This kext does not interfere with any of the other kexts, and works perfectly.
+6. Added service manuals for all compatible Thinkpad laptops.
 
 This EFI has only been tested with Monterey and Catalina, but should work fine with Big Sur. 
 
